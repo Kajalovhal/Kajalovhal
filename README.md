@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kajalovhal
-- 👀 I’m interested in ...Web Development 
-- 🌱 I’m currently learning ...Full Stack Development 
+- 👀 I’m interested in ...Web Development/Software-Devlopment/Data-Anlysis
+- 🌱 I’m...Computer Engineers 
 - 📫 How to reach me ...Email- ovhalkajal759@gmail.com 
 
 <!---
